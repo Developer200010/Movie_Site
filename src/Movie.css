@@ -1,0 +1,7 @@
+.post{
+    flex:12;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aqua;
+}
+
