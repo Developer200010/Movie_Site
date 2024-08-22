@@ -1,8 +1,16 @@
-# React + Vite
+# project Name : MovieSite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+---
+> This project is used to find the details of a movie.<br>
+> This project has used IMDB api to fetch movie detalis.
+---
+## Tools use
+| tools | description |
+| ------ | ------ |
+| React.js | This project is based on react.js.<br> Basic hooks use in this projects like useContext, useState and useEffect. |
+---
+## Features 
+- search funcitonality
+- movies details
