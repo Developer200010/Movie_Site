@@ -5,6 +5,9 @@
 ---
 > This project is used to find the details of a movie.<br>
 > This project has used IMDB api to fetch movie detalis.
+```
+api : https://www.omdbapi.com/?apikey=7f844fe3&s
+```
 ---
 ## Tools use
 | tools | description |
@@ -14,3 +17,8 @@
 ## Features 
 - search funcitonality
 - movies details
+
+## File structure 
+>Context.jsx : It this file all the global varibles have been declared.
+>Home.jsx : It is the file where all the movies cards have been declared.
+>
