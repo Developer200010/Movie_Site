@@ -19,6 +19,12 @@ api : https://www.omdbapi.com/?apikey=7f844fe3&s
 - movies details
 
 ## File structure 
->Context.jsx : It this file all the global varibles have been declared.
->Home.jsx : It is the file where all the movies cards have been declared.
->
+>Context.jsx : It this file all the global varibles have been declared.<br>
+>Home.jsx : It is the file where search component and movie component have been declared.<br>
+>Moive.jsx : It is the file which is containing all the detalis of a movies which is being invoked in Home.jsx.<br>
+>SinglePage.jsx : It is the file which is containing single detalis of a single movie card.<br>
+>Search.jsx : this file is containing all the funtionality of search movies.
+
+## Delpoyment server 
+- Netlify.com
+
